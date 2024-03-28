@@ -1,16 +1,12 @@
-# project1_arfan
+# List Tim MPL App
+Arfan Yusran | 5027211017
 
-A new Flutter project.
+* Homescreen
+![image](https://github.com/jezz16/Pemograman-Mobile/assets/99706251/80116c65-b924-4e6e-af35-45cef3cc5135)
 
-## Getting Started
+*List Tim 
+![image](https://github.com/jezz16/Pemograman-Mobile/assets/99706251/25352df6-e026-4491-a11c-605ec0e0d08a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
