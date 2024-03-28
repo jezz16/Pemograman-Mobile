@@ -1,5 +1,5 @@
 # List Tim MPL App
-Arfan Yusran | 5027211017
+| Arfan Yusran | 5027211017 |
 
 * Homescreen
 ![image](https://github.com/jezz16/Pemograman-Mobile/assets/99706251/80116c65-b924-4e6e-af35-45cef3cc5135)
